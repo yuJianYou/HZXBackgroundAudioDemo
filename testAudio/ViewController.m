@@ -31,6 +31,7 @@
 //        _voicePlayer.numberOfLoops = 2; //循环次数
         //这里的代理如果要用到就可以设置，没有用到就不用设置
         _voicePlayer.delegate = self;
+        //这里是测试git使用的
     }
     return _voicePlayer;
 }
